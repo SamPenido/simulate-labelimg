@@ -1,0 +1,55 @@
+# Arquivos de dataset e vídeos
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.webm
+dataset/
+treino/
+
+# Arquivos de modelo YOLO
+*.pt
+*.weights
+*.cfg
+runs/
+weights/
+
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ambientes virtuais
+venv/
+ENV/
+.env
+
+# Arquivos de IDE/editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
